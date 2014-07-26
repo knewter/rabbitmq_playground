@@ -1,0 +1,2 @@
+defmodule RabbitmqPlayground do
+end
